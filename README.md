@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React.JS., Data Structures and Algorithm**
+- 🌱 I’m currently learning **React.JS, Data Structures and Algorithm**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **singhharsh998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W9fgtQwZ5ufzDi0JuVpccr5oO1vTUTHr/view?usp=sharing](https://drive.google.com/file/d/1W9fgtQwZ5ufzDi0JuVpccr5oO1vTUTHr/view?usp=sharing)
+- 📄 Know about my experiences [myresume](https://drive.google.com/file/d/1W9fgtQwZ5ufzDi0JuVpccr5oO1vTUTHr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
