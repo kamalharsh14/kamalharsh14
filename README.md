@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I use dark mode because light attracts BUGS.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
