@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **singhharsh998@gmail.com**
 
-- 📄 Know about my experiences [Harsh's Resume](https://drive.google.com/file/d/1W9fgtQwZ5ufzDi0JuVpccr5oO1vTUTHr/view)
+- 📄 Know about my experiences [Harsh's Resume](https://drive.google.com/file/d/1qTrJ-flBVJH6lJtWxYUsXQcIcAumq-C3/view?usp=sharing)
 
 - ⚡ Fun fact **I use dark mode because light attracts BUGS.**
 
